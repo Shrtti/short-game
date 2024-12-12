@@ -1,0 +1,14 @@
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+c:\Users\snate\Downloads\Challenge-project-Create-methods-in-CSharp-main (1)\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
